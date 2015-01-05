@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008193_0000_102E4A128B5611B0"/>
-            <pb facs="tcp:008193_0001_102E4A1517733450" rendition="simple:additions"/>
+            <pb facs="unknown:008193_0000_102E4A128B5611B0"/>
+            <pb facs="unknown:008193_0001_102E4A1517733450"
+                rendition="simple:additions"/>
             <p>THE Conqueſt of <hi>LOUISBOURG:</hi> A POEM.</p>
             <p>By JOHN MAYLEM, <hi>Philo-Bellum.</hi>
             </p>
@@ -121,15 +122,15 @@
                <hi>BOSTON, N.E.</hi> Printed in the Year. 1758.</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:008193_0002_102E4A17A5BD54C8"/>
+            <pb facs="unknown:008193_0002_102E4A17A5BD54C8"/>
             <head>The Argument.</head>
             <p>INvocation—Begins [in the Year <hi>1753</hi>] with the Cauſe of the War, the Depredations and Hoſtilities of the Indians, in the profound of Peace, thro' the French Inſtiga<g ref="char:EOLhyphen"/>tion—touching upon the Miſcarriage of our Arms in <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> which excite his Britannic Majeſty to a juſt Senſe of the imminent Danger his American Empire is threatened with; who ſummons a Parliament, and Mr. Secretary <hi>Pitt</hi> — deſcribes the deplorable Situation of Affairs in that Part of the World — Mr. Secretary <hi>Pitt's</hi> Addreſs, imploring his Majeſty's Royal Order — Who declares the French Perfidy, exciting them to Revenge — And propoſes an immediate Deſcent upon the Iſland of <hi>Cape-Breton,</hi> with a ſtrong Fleet, and ſufficient Land-Army, under the Com<g ref="char:EOLhyphen"/>mand of Admiral <hi>Boſcawen,</hi> and General <hi>Amhurſt,</hi> whom [by Mr. <hi>Pitt's</hi> Advice] he recommends to his Parlia<g ref="char:EOLhyphen"/>ment, which is approv'd of, with all the Demonſtration of Joy and Satisfaction—the Fleet conſiſting of twenty four Ships of War (excluſive of near One Hundred &amp; forty Sail of Tranſ<g ref="char:EOLhyphen"/>ports) Rendezvous at <hi>Plymouth,</hi> from whence they embark with twelve Thouſand Land Forces for <hi>Halifax,</hi> where they are join'd by General <hi>Lawrence</hi> with ſix Thouſand Aids, who all embark for <hi>Cape-Breton,</hi> arrive there <hi>[May 1758]</hi> in ſix Days, land their Troops, (of which eighteen are drowned) and drive the Enemy from the Shore — General <hi>Amhurſt</hi> marches to the Attack of their Advance Battery; and after a ſharp Conflict drives them to the City —
-<pb n="ii" facs="tcp:008193_0003_102E4A1A517DE3D8"/>The intrepid Valour and Proweſs of <hi>Amhurſt, Wolf, Whit<g ref="char:EOLhyphen"/>more, Lawrence, Frazer, &amp; Scott</hi>—Their ſeveral Actions in that Heroic Enterprize—The General opens his Lines, and begins the Seige—In the mean Tims <hi>Boſcawen, Hardy,</hi> and <hi>Durell,</hi> Bombard and Cannonade the Enemy from their Fleet— A Bomb thrown from the Engliſh, falls on the French Admiral's Ship, and deſtroys her — The Enemy ſeiz'd with Deſpair, ſink two of their Ships — The Horror of a Seige deſcrib'd — Forty Days having elapſ'd, and a Breach forc'd in their Walls, they Capitulate Priſoners of War—but by the Admiral are ſent to <hi>France</hi> (except their regular Troops) Brigadier <hi>Monckton,</hi> goes on Command to <hi>St. John's River,</hi> and returns from his Expedition with Succeſs—which concludes the Poem—</p>
+<pb n="ii" facs="unknown:008193_0003_102E4A1A517DE3D8"/>The intrepid Valour and Proweſs of <hi>Amhurſt, Wolf, Whit<g ref="char:EOLhyphen"/>more, Lawrence, Frazer, &amp; Scott</hi>—Their ſeveral Actions in that Heroic Enterprize—The General opens his Lines, and begins the Seige—In the mean Tims <hi>Boſcawen, Hardy,</hi> and <hi>Durell,</hi> Bombard and Cannonade the Enemy from their Fleet— A Bomb thrown from the Engliſh, falls on the French Admiral's Ship, and deſtroys her — The Enemy ſeiz'd with Deſpair, ſink two of their Ships — The Horror of a Seige deſcrib'd — Forty Days having elapſ'd, and a Breach forc'd in their Walls, they Capitulate Priſoners of War—but by the Admiral are ſent to <hi>France</hi> (except their regular Troops) Brigadier <hi>Monckton,</hi> goes on Command to <hi>St. John's River,</hi> and returns from his Expedition with Succeſs—which concludes the Poem—</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:008193_0004_102E4A1BD6E64A18"/>
+            <pb facs="unknown:008193_0004_102E4A1BD6E64A18"/>
             <head>
                <hi>The Conqueſt of</hi> LOUISBOURG.</head>
             <lg>
@@ -155,7 +156,7 @@
                <l>Horoic Verſe to noble Deeds belong</l>
                <l>Arms and the Hero claim immortal Song.</l>
                <l n="20">
-                  <pb n="2" facs="tcp:008193_0005_102E4A207B636650"/>
+                  <pb n="2" facs="unknown:008193_0005_102E4A207B636650"/>
 Theſe I attempt—but firſt the mighty Cauſe</l>
                <l>And bold Infringer of eſtabliſh'd Laws—</l>
                <l>How violate ſo beautiful a Plan!</l>
@@ -184,7 +185,7 @@ Theſe I attempt—but firſt the mighty Cauſe</l>
                <l>Stupendous Malice, and amazing Ill!</l>
                <l>Black as Damnation, or their native Hell!</l>
                <l>
-                  <pb n="3" facs="tcp:008193_0006_102E4A232DBFD290"/>
+                  <pb n="3" facs="unknown:008193_0006_102E4A232DBFD290"/>
 Thus long young Albion knew oppreſſive Weignt,</l>
                <l n="45">And felt each fad viciſſitude of Fate.</l>
                <l>With all Columbia conſtant in Alarms,</l>
@@ -211,7 +212,7 @@ Thus long young Albion knew oppreſſive Weignt,</l>
                <l n="65">If it repoſe be call'd—All Night he lay,</l>
                <l>By anxious Care oppreſt, till gleam of Day,</l>
                <l>
-                  <pb n="4" facs="tcp:008193_0007_102E4A24B24961F0"/>
+                  <pb n="4" facs="unknown:008193_0007_102E4A24B24961F0"/>
 When from his Bed the tho'tful Monarch roſe</l>
                <l>(Tho'tful—but yet his Mind not diſcompoſe,</l>
                <l n="70">But ſuch as might proceed from patriot Zeal</l>
@@ -238,7 +239,7 @@ When from his Bed the tho'tful Monarch roſe</l>
                <l n="90">The ſavage Brood, induc'd by Gallia's Sons,</l>
                <l>Depopulate our Villages and Towns.</l>
                <l>
-                  <pb n="5" facs="tcp:008193_0008_102E4A298A9EA4A8"/>
+                  <pb n="5" facs="unknown:008193_0008_102E4A298A9EA4A8"/>
 Blood, Murder, Devaſtation, Rape, attend</l>
                <l>The endleſs ravage of a helliſh Fiend.</l>
                <l>If we to ſtop this Scene of Death delay,</l>
@@ -264,7 +265,7 @@ Blood, Murder, Devaſtation, Rape, attend</l>
                <l>When in the Dome, no more a ſolemn Pauſe,</l>
                <l n="115">But catching Murmurs echo his Applauſe:</l>
                <l>
-                  <pb n="6" facs="tcp:008193_0009_102E4A2C68E7C570"/>
+                  <pb n="6" facs="unknown:008193_0009_102E4A2C68E7C570"/>
 At which in ſage Addreſs he further ſpake,</l>
                <l>And thus the buzzing Whiſper gently brake.</l>
                <l>O Britons Arm, and urge your future good,</l>
@@ -293,7 +294,7 @@ At which in ſage Addreſs he further ſpake,</l>
                <l>And now the Drums beat up, and now appears</l>
                <l>With Hearts elate twelve Thouſand Voluntiers.</l>
                <l>
-                  <pb n="7" facs="tcp:008193_0010_102E4A2DECB4DEB8"/>
+                  <pb n="7" facs="unknown:008193_0010_102E4A2DECB4DEB8"/>
 Fir'd with Ambition in their Country's Cauſe,</l>
                <l n="140">Reſolv'd to purchaſe Fame, and loud Applauſe,</l>
                <l>The ample Sea-Ports, each aſſiduous Man</l>
@@ -319,7 +320,7 @@ Fir'd with Ambition in their Country's Cauſe,</l>
                <l>A ſpacious Baſon now the Fleet immure</l>
                <l>Where the tall Navy rendezvous ſecure.</l>
                <l>
-                  <pb n="8" facs="tcp:008193_0011_102E4A30C0744988"/>
+                  <pb n="8" facs="unknown:008193_0011_102E4A30C0744988"/>
 NOW LAWRENCE, fir'd to Arm, and dread exploit,</l>
                <l n="165">With great BOSCAWEN, takes his eager Lot.</l>
                <l>Six Thouſand Aids, recruit their ample Force,</l>
@@ -347,7 +348,7 @@ NOW LAWRENCE, fir'd to Arm, and dread exploit,</l>
                <l>Then at their Head heroic and ſerene,</l>
                <l>March'd like young Scipio to a bloodier Scene,</l>
                <l>
-                  <pb n="9" facs="tcp:008193_0012_102E4A3579C57590"/>
+                  <pb n="9" facs="unknown:008193_0012_102E4A3579C57590"/>
 To a high Battery, or winding Length,</l>
                <l>Of double Embraſures, of double Strength,</l>
                <l n="190">Whoſe mighty Walls the Enemy immure,</l>
@@ -373,7 +374,7 @@ To a high Battery, or winding Length,</l>
                <l n="210">Now, dire Confuſions on Confuſions rife,</l>
                <l>And the deep conflict aids the mighty Noiſe.</l>
                <l>
-                  <pb n="10" facs="tcp:008193_0013_102E4A380B721590"/>
+                  <pb n="10" facs="unknown:008193_0013_102E4A380B721590"/>
 From Hills of Smoke ſee Spire aſcend on Spire,</l>
                <l>And AMHURST there invelop'd all in Fire.</l>
                <l>With his drawn Sabre from a livid Cloud,</l>
@@ -399,7 +400,7 @@ From Hills of Smoke ſee Spire aſcend on Spire,</l>
                <l>With Mein majeſtic, thrice his Sabre ſhook,</l>
                <l n="235">Thrice wav'd his Arm, and thus, heroic, ſpoke—</l>
                <l>
-                  <pb n="11" facs="tcp:008193_0014_102DD10450FFCA98"/>
+                  <pb n="11" facs="unknown:008193_0014_102DD10450FFCA98"/>
 Intrepid Heroes—Britains loyal Band!</l>
                <l>Who valiant fought on this important Land,</l>
                <l>In equal Poiſe of this exploit th' Event</l>
@@ -428,7 +429,7 @@ Intrepid Heroes—Britains loyal Band!</l>
                <l>And <hi>Highland</hi> Heroes charge their double Flanks,</l>
                <l>Attack whole Squadrons, and encloſe their Ranks.</l>
                <l n="260">
-                  <pb n="12" facs="tcp:008193_0015_102E4A3C1F94E660"/>
+                  <pb n="12" facs="unknown:008193_0015_102E4A3C1F94E660"/>
 And SCOTT with Ardour penetrates the Wood,</l>
                <l>And ſable Warriors weep a vital Flood;</l>
                <l>So a young Lion with amazing dread,</l>
@@ -458,7 +459,7 @@ And SCOTT with Ardour penetrates the Wood,</l>
                <l>In cloſe Employ the Veterans engage,</l>
                <l>For the dread Apparatus of a Seige.</l>
                <l>
-                  <pb n="13" facs="tcp:008193_0016_102E4A3DA3464218"/>
+                  <pb n="13" facs="unknown:008193_0016_102E4A3DA3464218"/>
 Oppos'd to where, their fam'd Aſſylum ſtood,</l>
                <l n="285">Was a fair Riſing by a Neighb'ring Wood,</l>
                <l>An eaſy Eminence, whoſe Top accline,</l>
@@ -483,7 +484,7 @@ Oppos'd to where, their fam'd Aſſylum ſtood,</l>
                <l n="305">With dire Combuſtion fill'd, and Death innate,</l>
                <l>The laſt ſad prelude to their final Fate!</l>
                <l>
-                  <pb n="14" facs="tcp:008193_0017_102E4A413341A0B8"/>
+                  <pb n="14" facs="unknown:008193_0017_102E4A413341A0B8"/>
 Aloft in Ambient Aether now it ſpires,</l>
                <l>Strikes on the Sun-beams, interchanging Fires;</l>
                <l>Now prone inclines in terrible diſplay,</l>
@@ -510,7 +511,7 @@ Aloft in Ambient Aether now it ſpires,</l>
                <l>Or in their City wild convulſive burſt</l>
                <l n="330">Ten thouſand Ways, and mingle with the Duſt.</l>
                <l>
-                  <pb n="15" facs="tcp:008193_0018_102E4A44C7DCBDB8"/>
+                  <pb n="15" facs="unknown:008193_0018_102E4A44C7DCBDB8"/>
 A gaping Chaſm in their Wall diſcloſe,</l>
                <l>The reeking Soldier at his Death-repoſe.</l>
                <l>While Fate in Show'rs of Lead connected rain,</l>
@@ -538,7 +539,7 @@ A gaping Chaſm in their Wall diſcloſe,</l>
             </lg>
             <lg>
                <l n="355">
-                  <pb n="16" facs="tcp:008193_0019_102E4A479E66E9C8"/>
+                  <pb n="16" facs="unknown:008193_0019_102E4A479E66E9C8"/>
 Thus bleſt by Heav'n in an important Hour,</l>
                <l>A ſpacious Region owns the Britiſh Pow'r.</l>
                <l>Now a ſmooth Surface all along is ſeen,</l>
